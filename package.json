@@ -2,7 +2,7 @@
   "homepage": "http://Iceuu.github.io/onlineshop-flipkartClone",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@supabase/supabase-js": "^2.38.0",
