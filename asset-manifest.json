@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/onlineshop-flipkartClone/static/css/main.d00d5904.css",
-    "main.js": "/onlineshop-flipkartClone/static/js/main.730acb55.js",
-    "static/media/slick.svg": "/onlineshop-flipkartClone/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/onlineshop-flipkartClone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/onlineshop-flipkartClone/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/onlineshop-flipkartClone/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/onlineshop-flipkartClone/index.html",
-    "main.d00d5904.css.map": "/onlineshop-flipkartClone/static/css/main.d00d5904.css.map",
-    "main.730acb55.js.map": "/onlineshop-flipkartClone/static/js/main.730acb55.js.map"
+    "main.css": "/Flipkart-Clone/static/css/main.3b194b36.css",
+    "main.js": "/Flipkart-Clone/static/js/main.3a449eb5.js",
+    "static/media/slick.svg": "/Flipkart-Clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Flipkart-Clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Flipkart-Clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Flipkart-Clone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Flipkart-Clone/index.html",
+    "main.3b194b36.css.map": "/Flipkart-Clone/static/css/main.3b194b36.css.map",
+    "main.3a449eb5.js.map": "/Flipkart-Clone/static/js/main.3a449eb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d00d5904.css",
-    "static/js/main.730acb55.js"
+    "static/css/main.3b194b36.css",
+    "static/js/main.3a449eb5.js"
   ]
 }
